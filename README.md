@@ -7,7 +7,7 @@
 
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
-<a href="https://codepen.io/vinnypinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinnypinho" height="30" width="40" /></a>
+<a href="https://www.tabnews.com.br/viniciusde" target="blank"><img align="center" src="https://www.tabnews.com.br/brand/dark-outlined.svg" alt="viniciusde" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinicius-de-pinho-santos-ba438b1a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-de-pinho-santos-ba438b1a2" height="30" width="40" /></a>
 </p>
 
