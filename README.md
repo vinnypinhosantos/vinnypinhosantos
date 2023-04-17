@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Vinicius de Pinho Santos</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
-- 🌱 Estudando **JavaScript**
+- 🌱 Estudando **C#**
 
 - 📫 Me contate: **vinnypinhosantos@gmail.com**
 
