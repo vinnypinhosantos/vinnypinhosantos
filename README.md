@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Vinicius de Pinho Santos</h1>
 <h3 align="center">Análise e Desenvolvimento de Sistemas</h3>
 
-- 🌱 Desenvolvedor de Softwarew **C#**
+- 🌱 Desenvolvedor de Software **C#**
 
 - 📫 Me contate: **vinnypinhosantos@gmail.com**
 
